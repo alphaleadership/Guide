@@ -22,6 +22,14 @@ Pour changer de classe, et à condition que votre personnage soit au moins nivea
 
 <figure><picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 183617.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/tier1.png" alt="Liste des classes de niveau 1"></picture><figcaption><p>Classes de palier 1</p></figcaption></figure>
 
+
+| Classe         | Description                                                                                     |
+|----------------|-------------------------------------------------------------------------------------------------|
+| **Recrue**     | Une classe simple. Plutôt équilibrée.                                                            |
+| **Ganté**      | Une classe axée sur la défense. Faibles performances en combat mais vie supplémentaire pour l'aventure. |
+| **Lanceur de pierre** | Une classe axée sur la vitesse. Peu de points de vie et d'énergie mais vitesse et attaque élevées. |
+| **Écuyer**     | Une classe puissante mais équilibrée. Plutôt polyvalente.                                      |
+
 <figure><picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 183840.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/tier2.png" alt="Liste des classes de niveau 2"></picture><figcaption><p>Classes de palier 2</p></figcaption></figure>
 
 <figure><picture><source srcset="../.gitbook/assets/Capture d&#x27;écran 2025-06-19 183938.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/tier3.png" alt="Liste des classes de niveau 3"></picture><figcaption><p>Classes de palier 3</p></figcaption></figure>
